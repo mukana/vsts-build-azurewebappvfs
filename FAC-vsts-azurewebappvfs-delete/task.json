@@ -1,11 +1,11 @@
 {
-    "id": "25104ad4-8a3e-4543-9405-419adbe1b2fd",
+    "id": "25104ad4-8a3e-4543-9405-419adbe1b2fe",
     "name": "WebAppVFSDelete",
     "friendlyName": "Delete Item from Azure Web App",
     "description": "Delete Item from Azure Web App through Kudu VFS Rest API",
     "helpMarkDown": "Version: 2.2.2 - [More Information](https://git.mukana.info/public-libraries/vsts-build-azurewebappvfs)",
     "category": "Utility",
-    "author": "Santeri Elo",
+    "author": "FAC",
     "version": {
         "Major": 2,
         "Minor": 2,
