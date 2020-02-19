@@ -2,7 +2,7 @@
 
 A custom Azure DevOps deployment task for deleting files and/or folders from the app service, with deployment slot support & fixes for issues found in upstream.
 
-![Screenshot](https://raw.githubusercontent.com/iffa/VSTS-Build-AzureWebAppVFS/master/iffa.vsts.azurewebappvfs.extension/images/1.png)
+![Screenshot](https://git.mukana.info/public-libraries/vsts-build-azurewebappvfs/raw/master/FAC.vsts.azurewebappvfs.extension/images/1.png)
 
 ## Why not simply use "Remove additional files at destination"?
 
